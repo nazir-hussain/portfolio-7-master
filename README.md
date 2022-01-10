@@ -4,7 +4,7 @@ A developer would spend an hour adjusting the padding and margin of a single but
 
 
 # Portfolio-Template
-A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
+A Portfolio website template for Programmers, Geeks, Developers, Hackers etc.
 
 ### Highlights
 1. Setup is very easy and you get a portfolio template of your own for free.
