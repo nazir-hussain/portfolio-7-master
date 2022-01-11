@@ -38,7 +38,7 @@ A Portfolio website template for Programmers, Geeks, Developers, Hackers etc.
 
 
 ### Demo
-For Demo of this template you can visit here👉 [Portfolio] https://nazir-hussain.github.io/portfolio-7-master/
+For Demo of this template you can visit here👉 (Demo) https://nazir-hussain.github.io/portfolio-7-master/
 
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
